@@ -1,7 +1,2 @@
 streamlit
 openai
-os
-datetime
-cx_Oracle
-pandas
-plotly
