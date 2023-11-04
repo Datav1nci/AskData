@@ -1,9 +1,7 @@
-import streamlit as st
-import openai
-import os
-import datetime
-from datetime import datetime
-import cx_Oracle
-import pandas as pd
-import matplotlib.pyplot as plt
-import plotly.express as px
+streamlit
+openai
+os
+datetime
+cx_Oracle
+pandas
+plotly
